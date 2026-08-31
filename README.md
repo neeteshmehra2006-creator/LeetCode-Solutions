@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1837-sum-of-digits-in-base-k](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1837-sum-of-digits-in-base-k) |
 ## Greedy
 |  |
 | ------- |
