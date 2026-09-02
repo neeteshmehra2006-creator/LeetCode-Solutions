@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2326-spiral-matrix-iv](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
+| [3875-construct-uniform-parity-array-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-sum-of-digits-in-base-k](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [2544-alternating-digit-sum](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2544-alternating-digit-sum) |
 | [2843-count-symmetric-integers](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2843-count-symmetric-integers) |
+| [3875-construct-uniform-parity-array-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
