@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2326-spiral-matrix-iv](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [3875-construct-uniform-parity-array-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
 |  |
 | ------- |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
