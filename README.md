@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0908-smallest-range-i) |
 | [0922-sort-array-by-parity-ii](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2326-spiral-matrix-iv](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1837-sum-of-digits-in-base-k](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1837-sum-of-digits-in-base-k) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2544-alternating-digit-sum](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2544-alternating-digit-sum) |
 | [2843-count-symmetric-integers](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2843-count-symmetric-integers) |
 | [3870-count-commas-in-range](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
@@ -130,4 +132,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
