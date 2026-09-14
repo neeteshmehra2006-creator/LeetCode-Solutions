@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0908-smallest-range-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1837-sum-of-digits-in-base-k](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1837-sum-of-digits-in-base-k) |
@@ -172,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
