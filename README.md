@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 ## Enumeration
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0345-reverse-vowels-of-a-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0922-sort-array-by-parity-ii](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
