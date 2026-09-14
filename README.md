@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0908-smallest-range-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0908-smallest-range-i) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0922-sort-array-by-parity-ii](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
@@ -191,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
