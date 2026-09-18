@@ -7,30 +7,28 @@ class Solution {
         int low = i;
         int high = i;
 
-        //For Odd CASE
-
-        while(low >= 0 && high < n && s.charAt(low) == s.charAt(high)){
+        while(low>=0 && high<n && s.charAt(low)==s.charAt(high)){
             low--;
             high++;
         }
+
         String curr = s.substring(low+1,high);
 
-        if(res.length() < curr.length()){
+        if(curr.length() > res.length()){
             res = curr;
         }
+          
+          low = i;
+          high = i+1;
 
-        //For EVEN CASE
-
-        low = i;
-        high = i+1;
-
-        while(low >= 0 && high < n && s.charAt(low) == s.charAt(high)){
+          while(low>=0 && high<n && s.charAt(low)==s.charAt(high)){
             low--;
             high++;
         }
-        curr = s.substring(low+1,high);
 
-        if(res.length() < curr.length()){
+         curr = s.substring(low+1,high);
+
+        if(curr.length() > res.length()){
             res = curr;
         }
 
