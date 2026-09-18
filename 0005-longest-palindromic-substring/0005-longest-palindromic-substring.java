@@ -7,6 +7,8 @@ class Solution {
         int low = i;
         int high = i;
 
+        //For Odd CASE
+
         while(low >= 0 && high < n && s.charAt(low) == s.charAt(high)){
             low--;
             high++;
@@ -16,6 +18,8 @@ class Solution {
         if(res.length() < curr.length()){
             res = curr;
         }
+
+        //For EVEN CASE
 
         low = i;
         high = i+1;
