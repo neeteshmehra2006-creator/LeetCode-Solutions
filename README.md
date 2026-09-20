@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0647-palindromic-substrings](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0922-sort-array-by-parity-ii](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -238,5 +240,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
