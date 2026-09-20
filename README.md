@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2326-spiral-matrix-iv](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
+| [3498-reverse-degree-of-a-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
 | ------- |
