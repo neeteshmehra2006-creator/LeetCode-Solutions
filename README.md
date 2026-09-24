@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3842-toggle-light-bulbs](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3842-toggle-light-bulbs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2544-alternating-digit-sum](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2544-alternating-digit-sum) |
 | [2843-count-symmetric-integers](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2843-count-symmetric-integers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
