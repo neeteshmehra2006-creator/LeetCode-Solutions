@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0908-smallest-range-i) |
 | [0922-sort-array-by-parity-ii](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1122-relative-sort-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1920-build-array-from-permutation](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0922-sort-array-by-parity-ii](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1122-relative-sort-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1122-relative-sort-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 ## Polygons
 |  |
 | ------- |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [1122-relative-sort-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -288,4 +292,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
