@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0908-smallest-range-i) |
 | [0922-sort-array-by-parity-ii](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1051-height-checker](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1920-build-array-from-permutation](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0922-sort-array-by-parity-ii](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1051-height-checker](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -301,10 +303,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 ## Trie
 |  |
