@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2000-reverse-prefix-of-word](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1544-make-the-string-great](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0922-sort-array-by-parity-ii](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2000-reverse-prefix-of-word](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
 |  |
