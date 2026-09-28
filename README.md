@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1544-make-the-string-great](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1544-make-the-string-great](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -323,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
