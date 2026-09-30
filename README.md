@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0908-smallest-range-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1025-divisor-game](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1837-sum-of-digits-in-base-k](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
+| [1025-divisor-game](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -349,4 +351,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
