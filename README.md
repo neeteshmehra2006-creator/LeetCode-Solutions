@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1025-divisor-game) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1837-sum-of-digits-in-base-k](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
