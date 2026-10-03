@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3174-clear-digits) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3856-trim-trailing-vowels](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3856-trim-trailing-vowels) |
 ## Matrix
 |  |
 | ------- |
