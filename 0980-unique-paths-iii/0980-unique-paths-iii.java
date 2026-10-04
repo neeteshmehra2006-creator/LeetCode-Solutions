@@ -10,10 +10,9 @@ class Solution {
          if (grid[sr][sc] == -1)return 0;
 
    
-        if (sr == er && sc == ec) {
-            if (count == 1)
-                return 1;
-            return 0;
+        if (grid[sr][sc]==2) {
+            if (count == 1)return 1;
+            else return 0;
         }
 
         grid[sr][sc] = -1;
@@ -23,7 +22,7 @@ class Solution {
         int up = helper(sr - 1, sc, er, ec, grid, count - 1);
         int down = helper(sr+1, sc, er, ec, grid, count - 1);
 
-       grid[sr][sc] = 0;
+        grid[sr][sc] = 0;
         return right + down + up + left;
     }
 
