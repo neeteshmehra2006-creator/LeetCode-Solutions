@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0645-set-mismatch) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
