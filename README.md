@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1688-count-of-matches-in-tournament](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1837-sum-of-digits-in-base-k](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [1688-count-of-matches-in-tournament](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2326-spiral-matrix-iv](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
