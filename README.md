@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1603-design-parking-system](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [1603-design-parking-system](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -453,4 +455,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1791-find-center-of-star-graph) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
