@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2485-find-the-pivot-integer](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2544-alternating-digit-sum](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2544-alternating-digit-sum) |
 | [2843-count-symmetric-integers](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2843-count-symmetric-integers) |
 | [3099-harshad-number](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3099-harshad-number) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2485-find-the-pivot-integer](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Bit Manipulation
 |  |
