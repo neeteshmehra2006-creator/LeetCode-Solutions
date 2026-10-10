@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1603-design-parking-system](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2206-divide-array-into-equal-pairs](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2390-removing-stars-from-a-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
