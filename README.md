@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2206-divide-array-into-equal-pairs](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2326-spiral-matrix-iv](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2706-buy-two-chocolates](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2706-buy-two-chocolates](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [3842-toggle-light-bulbs](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3842-toggle-light-bulbs) |
 ## Counting
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2206-divide-array-into-equal-pairs](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
