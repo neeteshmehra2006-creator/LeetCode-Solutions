@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2706-buy-two-chocolates](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2706-buy-two-chocolates) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 | [1925-count-square-sum-triples](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2843-count-symmetric-integers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3833-count-dominant-indices](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3833-count-dominant-indices) |
