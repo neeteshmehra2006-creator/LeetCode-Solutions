@@ -6,8 +6,11 @@ class Solution {
         int ans = Integer.MIN_VALUE;
 
         while(low<high){
-            int area = (high-low)*Math.min(height[low],height[high]);
-            ans = Math.max(ans,area);
+             int l = high-low;
+             int b = Math.min(height[low],height[high]);
+             int area = l*b;
+
+             ans = Math.max(area,ans);
 
             if(height[low] < height[high]){
                 low++;
