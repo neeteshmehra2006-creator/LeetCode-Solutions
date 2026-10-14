@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1995-count-special-quadruplets](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1995-count-special-quadruplets) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1995-count-special-quadruplets](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1995-count-special-quadruplets) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2206-divide-array-into-equal-pairs](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1534-count-good-triplets](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 | [1925-count-square-sum-triples](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
+| [1995-count-special-quadruplets](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1995-count-special-quadruplets) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2843-count-symmetric-integers) |
