@@ -1,4 +1,3 @@
-
 class Solution {
     public int findJudge(int n, int[][] trust) {
         int[] InDeg = new int[n + 1];
