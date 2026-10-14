@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0371-sum-of-two-integers](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0397-integer-replacement) |
 | [0645-set-mismatch](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0980-unique-paths-iii](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
