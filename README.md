@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1528-shuffle-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 | [1748-sum-of-unique-elements](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1528-shuffle-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
