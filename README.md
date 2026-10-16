@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0463-island-perimeter](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0463-island-perimeter](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0980-unique-paths-iii](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
@@ -532,4 +534,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0705-design-hashset) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
