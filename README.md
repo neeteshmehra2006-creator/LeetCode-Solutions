@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2326-spiral-matrix-iv](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2706-buy-two-chocolates](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
