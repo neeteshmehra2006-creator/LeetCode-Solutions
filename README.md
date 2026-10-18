@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0036-valid-sudoku](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
