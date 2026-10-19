@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0766-toeplitz-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
+| [0819-most-common-word](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0896-monotonic-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [0908-smallest-range-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0908-smallest-range-i) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0819-most-common-word](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1603-design-parking-system](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 | [1748-sum-of-unique-elements](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0705-design-hashset) |
+| [0819-most-common-word](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0997-find-the-town-judge](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1122-relative-sort-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0709-to-lower-case](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0709-to-lower-case) |
+| [0819-most-common-word](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
