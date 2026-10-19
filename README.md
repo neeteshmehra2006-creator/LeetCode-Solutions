@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
