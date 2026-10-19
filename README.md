@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3798-largest-even-number](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3798-largest-even-number) |
+| [3813-vowel-consonant-score](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3813-vowel-consonant-score) |
 | [3856-trim-trailing-vowels](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3856-trim-trailing-vowels) |
 | [3894-traffic-signal-color](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Matrix
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2596-check-knight-tour-configuration](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [3174-clear-digits](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3813-vowel-consonant-score](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3813-vowel-consonant-score) |
 | [3842-toggle-light-bulbs](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3842-toggle-light-bulbs) |
 | [3894-traffic-signal-color](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Linked List
