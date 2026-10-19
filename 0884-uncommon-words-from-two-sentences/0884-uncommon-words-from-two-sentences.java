@@ -1,6 +1,3 @@
-
-import java.util.*;
-
 class Solution {
     public String[] uncommonFromSentences(String s1, String s2) {
         HashMap<String, Integer> map = new HashMap<>();
