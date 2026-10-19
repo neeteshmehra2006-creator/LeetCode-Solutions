@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2596-check-knight-tour-configuration](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
+| [2614-prime-in-diagonal](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2614-prime-in-diagonal) |
 | [2706-buy-two-chocolates](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2544-alternating-digit-sum](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2544-alternating-digit-sum) |
+| [2614-prime-in-diagonal](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2614-prime-in-diagonal) |
 | [2843-count-symmetric-integers](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2843-count-symmetric-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3099-harshad-number) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2319-check-if-matrix-is-x-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2326-spiral-matrix-iv](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2596-check-knight-tour-configuration](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
+| [2614-prime-in-diagonal](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2614-prime-in-diagonal) |
 | [2965-find-missing-and-repeated-values](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3033-modify-the-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3033-modify-the-matrix) |
 ## Simulation
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2614-prime-in-diagonal](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2614-prime-in-diagonal) |
 ## Euclidean Algorithm
 |  |
 | ------- |
