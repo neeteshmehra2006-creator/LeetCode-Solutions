@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3033-modify-the-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3033-modify-the-matrix) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2614-prime-in-diagonal) |
 | [2965-find-missing-and-repeated-values](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3033-modify-the-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3033-modify-the-matrix) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Simulation
 |  |
 | ------- |
