@@ -6,11 +6,11 @@ class Solution {
         String[] words = paragraph.split("[^a-z]+");
 
         for (int i = 0; i < words.length; i++) {
-            if (Arrays.asList(banned).contains(words[i])) {
-                continue;
-            }
-
             map.put(words[i], map.getOrDefault(words[i], 0) + 1);
+        }
+
+        for (String word : banned) {
+            map.remove(word);
         }
 
         String ans = "";
