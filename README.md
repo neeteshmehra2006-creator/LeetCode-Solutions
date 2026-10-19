@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3833-count-dominant-indices](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3833-count-dominant-indices) |
 | [3842-toggle-light-bulbs](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3842-toggle-light-bulbs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2706-buy-two-chocolates](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3842-toggle-light-bulbs) |
 ## Counting
 |  |
