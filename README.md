@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0665-non-decreasing-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0665-non-decreasing-array) |
 | [0682-baseball-game](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0705-design-hashset) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0819-most-common-word](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
