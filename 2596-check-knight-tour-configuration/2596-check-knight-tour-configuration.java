@@ -66,7 +66,6 @@ class Solution {
 
     public boolean checkValidGrid(int[][] grid) {
         if (grid[0][0] != 0) return false;
-
         return check(grid, 0, 0, 0);
     }
 }
