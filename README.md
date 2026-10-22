@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0707-design-linked-list) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
