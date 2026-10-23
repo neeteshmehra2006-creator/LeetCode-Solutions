@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2596-check-knight-tour-configuration](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2614-prime-in-diagonal](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2614-prime-in-diagonal) |
+| [2639-find-the-width-of-columns-of-a-grid](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2706-buy-two-chocolates](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2596-check-knight-tour-configuration](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2614-prime-in-diagonal](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2614-prime-in-diagonal) |
+| [2639-find-the-width-of-columns-of-a-grid](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2923-find-champion-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2923-find-champion-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3033-modify-the-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3033-modify-the-matrix) |
