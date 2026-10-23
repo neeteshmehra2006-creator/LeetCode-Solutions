@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1528-shuffle-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1528-shuffle-string) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0980-unique-paths-iii](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2326-spiral-matrix-iv](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
