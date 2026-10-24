@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0980-unique-paths-iii](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -574,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
