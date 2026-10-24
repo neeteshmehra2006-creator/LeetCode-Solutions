@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0334-increasing-triplet-subsequence](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0292-nim-game) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0344-reverse-string) |
