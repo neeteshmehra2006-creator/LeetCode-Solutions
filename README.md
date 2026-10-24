@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2706-buy-two-chocolates](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2923-find-champion-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2923-find-champion-i) |
 | [2942-find-words-containing-character](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3903-smallest-stable-index-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Bit Manipulation
 |  |
