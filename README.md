@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3833-count-dominant-indices](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3833-count-dominant-indices) |
 | [3842-toggle-light-bulbs](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3842-toggle-light-bulbs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Sorting
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3033-modify-the-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3033-modify-the-matrix) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
 | ------- |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1791-find-center-of-star-graph](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1791-find-center-of-star-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Design
 |  |
 | ------- |
