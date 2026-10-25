@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0980-unique-paths-iii](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
 ## Hamiltonian Path
 |  |
@@ -686,4 +688,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
