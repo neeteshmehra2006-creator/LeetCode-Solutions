@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2923-find-champion-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2923-find-champion-i) |
 | [2942-find-words-containing-character](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [2965-find-missing-and-repeated-values](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3033-modify-the-matrix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3033-modify-the-matrix) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Number Theory
 |  |
