@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
+| [3697-compute-decimal-representation](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3697-compute-decimal-representation) |
 | [3745-maximize-expression-of-three-elements](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3833-count-dominant-indices](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3833-count-dominant-indices) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3370-smallest-number-with-all-set-bits](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
+| [3697-compute-decimal-representation](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3697-compute-decimal-representation) |
 | [3870-count-commas-in-range](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
