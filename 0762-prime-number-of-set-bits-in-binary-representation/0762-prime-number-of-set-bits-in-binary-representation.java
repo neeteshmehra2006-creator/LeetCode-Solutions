@@ -9,7 +9,6 @@ class Solution {
             if (rem == 1) {
                 bit++;
             }
-
             x = x / 2;
         }
 
