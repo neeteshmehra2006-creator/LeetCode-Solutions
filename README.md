@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0836-rectangle-overlap](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0908-smallest-range-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0980-unique-paths-iii](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -735,4 +737,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
