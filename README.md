@@ -518,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0338-counting-bits](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0397-integer-replacement) |
