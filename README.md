@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2923-find-champion-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2923-find-champion-i) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2942-find-words-containing-character](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [2965-find-missing-and-repeated-values](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -667,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Brainteaser
 |  |
 | ------- |
