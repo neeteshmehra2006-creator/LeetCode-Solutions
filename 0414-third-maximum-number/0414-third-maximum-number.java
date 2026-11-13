@@ -1,19 +1,16 @@
 class Solution {
     public int thirdMax(int[] nums) {
+  
+    Arrays.sort(nums);
+    int n = nums.length;
+    Set<Integer>set = new HashSet<>();
+    for(int i = n-1; i>=0; i--){
+        set.add(nums[i]);
 
-        Set<Integer> set = new HashSet<>();
-
-        for (int x : nums) {
-            set.add(x);
+        if(set.size()==3){
+            return nums[i];
         }
-
-        if (set.size() < 3) {
-            return Collections.max(set);
-        }
-
-        set.remove(Collections.max(set));
-        set.remove(Collections.max(set));
-
-        return Collections.max(set);
     }
+     return nums[n-1];
+  }
 }
