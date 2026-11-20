@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2596-check-knight-tour-configuration](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2614-prime-in-diagonal](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2614-prime-in-diagonal) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3467-transform-array-by-parity](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2390-removing-stars-from-a-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
