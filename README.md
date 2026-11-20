@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3467-transform-array-by-parity](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3663-find-the-least-frequent-digit](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3663-find-the-least-frequent-digit](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3340-check-balanced-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3340-check-balanced-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3798-largest-even-number](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/3798-largest-even-number) |
