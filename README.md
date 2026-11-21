@@ -759,11 +759,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0463-island-perimeter](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [2596-check-knight-tour-configuration](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0463-island-perimeter](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [2596-check-knight-tour-configuration](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Longest Increasing Subsequence
@@ -783,4 +785,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
