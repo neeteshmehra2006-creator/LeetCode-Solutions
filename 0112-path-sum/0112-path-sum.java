@@ -23,7 +23,10 @@ class Solution {
         targetSum = targetSum - root.val;
 
         if (root.left == null && root.right == null) {
-            return targetSum == 0;
+            if(targetSum == 0){
+                return true;
+            }
+            else return false;
         }
 
         boolean l = hasPathSum(root.left, targetSum);
