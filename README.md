@@ -805,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
@@ -813,4 +814,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/neeteshmehra2006-creator/LeetCode-Solutions/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
